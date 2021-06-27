@@ -10,3 +10,7 @@ try:                        # Using try for the main part of the code
 except KeyboardInterrupt:   # if pressed ctrl + c while still in the try loop the script will exit
     exit()
 ```
+to try it out just use the command
+```bash 
+dev@localhost:~$ python3 whoops.py
+```
