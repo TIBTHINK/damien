@@ -18,3 +18,10 @@ very simple. the syntax is as follows
 ```bash
 pip3 [command] <package_name>
 ```
+
+after that you can import a libray by adding this line \
+to your python file
+```python
+import time
+from os import system
+```
