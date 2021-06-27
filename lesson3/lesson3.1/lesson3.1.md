@@ -16,3 +16,7 @@ while answer != wanted_answer:      # if detected that the wanted answer is not 
 else:                               # if the answer is correct then it will exit the loop
     exit("That was fun")
 ```
+test it out with
+```bash 
+dev@localhost:~$ python3 spin_me.py
+```
