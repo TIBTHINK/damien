@@ -9,25 +9,12 @@ def clear():
     else:
         _ = system('clear')
 
-beer_count = 0
-
 try:  
-    print("all systems go")
+    print("all systems go")     # Checking that it works
     clear()
     
-    print("how many beers do you order?")
-    question = int(input("[1-13]: "))
-    while beer_count != 13:
-        beer_count = beer_count + question
-        print("beer count: " + str(beer_count))
-        question = int(input("[1-13]: "))
-        if beer_count != 13:
-            exit("you have drinken enough")
-        else:
-            continue
-    else:
-        exit()
-        
+    print("how many beers do you order?")   # Asking the user for a number
+    question = int(input("[1-13]: "))       # Saving there answer as a integer       
 
 except KeyboardInterrupt:
     exit("good bye")
