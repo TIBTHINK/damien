@@ -6,7 +6,7 @@ you need access to the internet \
 and coding a internet libray is a bitch and a half \
 the good news is that some sad chap already coded it. every install \
 after 3.4 comes with pip or pip install python. 
-## How do we do this shit
+## How do we do this
 
 in your command prompt type...
 ```bash
