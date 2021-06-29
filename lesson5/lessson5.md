@@ -6,7 +6,7 @@ through out this lesson you will learn how to
 * requesting json from the internet
 * reading json as a list
 * finding useful data from request
-* and finding the price of SHIBA INU token
+* and making a script to tell you what the outside feels like
 
 # Real world uses
 
