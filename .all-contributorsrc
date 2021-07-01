@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "TIBTHINK",
+      "name": "TIBTHINK",
+      "avatar_url": "https://avatars.githubusercontent.com/u/38056175?v=4",
+      "profile": "https://tibthink.github.io",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "damien",
+  "projectOwner": "TIBTHINK",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
