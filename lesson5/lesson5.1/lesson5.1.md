@@ -1,13 +1,13 @@
 # Im gonna Post you
 
 In the last lesson you learned how to make loops all by \
-yourself (proud of you :>) now we are going to use library's \
+yourself (proud of you :>) now we are going to use libraries \
 we have used them before in lesson for but its more explained
 
 ## What the cat is a library?
 
-in short its a collection of functions that can be \
-called and given parameter's. \
+in short its a collection of functions, classes, and variables that can be \
+called and given parameters. \
 For example:
 
 ```python
