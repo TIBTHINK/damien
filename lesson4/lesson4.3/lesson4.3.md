@@ -28,7 +28,7 @@ try:
         question = int(input("[1-13]: "))   # Reasks the questions to start the loop
 
     else:                                   # If you have ordered 13 the program will exit
-        exit("you have had  to drink")
+        exit("you have had enough to drink")
         
 
 except KeyboardInterrupt:
