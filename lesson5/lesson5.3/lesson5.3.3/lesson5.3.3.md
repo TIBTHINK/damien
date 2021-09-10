@@ -9,9 +9,12 @@ weatherAPI account
 # Step 1
 go to https://www.weatherapi.com/ and click signup \
 <img src="/images/you_know_im_lazy.png">
+<br>
 # Step 2
 sign up for a free account \
+<br>
 <img src="/images/Signup - WeatherAPI.com - Brave_001.png">
 # Step 3 
 get your api key \
+<br>
 <img src="/images/Dashboard - WeatherAPI.com - Brave_001.png">
